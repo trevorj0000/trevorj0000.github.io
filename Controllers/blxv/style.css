@@ -104,7 +104,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: urlblxvbuttons.png);
+    background: url(blxvbuttons.png);
 }
 
 .ds4 .button.pressed {
@@ -144,7 +144,7 @@
 
 .ds4 .stick {
     position: absolute;
-    background: url(blxvsticks.svgz);
+    background: url(blxvsticks.png);
     height: 94px;
     width: 94px;
 }
