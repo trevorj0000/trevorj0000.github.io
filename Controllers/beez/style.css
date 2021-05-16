@@ -29,7 +29,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(beezface.png);
+    background: url(https://imgur.com/p4vyf2h.png);
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -66,16 +66,8 @@ body {
 } .xbox .start {
     background-position: 27px 0;
     float: right;
-} .xbox .dpad {
-    background: url(beezdpad.png);
-    position: absolute;
-    opacity: 0;
-	width: 144px;
-    height: 144px;
-    left: 71px;
-    top: 196px;
 } .xbox .face {
-    background: url(beezface.png);
+    background: url(https://imgur.com/hfZDWOk.png);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {
@@ -116,7 +108,7 @@ body {
     height: 108px;
     left: 94px;
 } .xbox .trigger {
-    background: url(beeztrigers.png);
+    background: url(beeztriggers.png);
     width: 111px;
     height: 108px;
     opacity: 0;
