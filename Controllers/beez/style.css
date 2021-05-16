@@ -51,13 +51,6 @@ body {
     background-position: -177px 0;
     left: 61px;
     top: 0px;
-} .xbox .arrows {
-    left: 195px;
-	top: 140px;
-    width: 416px;
-    height: 57px;
-} .xbox .quadrant { 
-    display: none; 
 } .xbox .back, .xbox .start {
     background: url(beezstart.png);
     width: 27px;
