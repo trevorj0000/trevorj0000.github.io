@@ -59,6 +59,11 @@ body {
 } .xbox .start {
     background-position: 27px 0;
     float: right;
+} .xbox .dpad {
+	width: 144px;
+    height: 144px;
+    left: 71px;
+    top: 196px;
 } .xbox .face {
     background: url(https://imgur.com/hfZDWOk.png);
     position: absolute;
