@@ -4,7 +4,7 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
-    background: url(https://imgur.com/cnU4FQR.png);
+    background: url(beezbase.png);
     width: 807px;
     height: 651px;
     margin-left: 0;
@@ -15,7 +15,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(https://imgur.com/D89v2xc.png);
+    background: url(beezstick.png);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
@@ -29,7 +29,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(https://imgur.com/DVqDSsJ.png);
+    background: url(beezbutton.png);
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -59,7 +59,7 @@ body {
 } .xbox .quadrant { 
     display: none; 
 } .xbox .back, .xbox .start {
-    background: url(https://imgur.com/3wQwtuy.png);
+    background: url(.png);
     width: 27px;
     height: 57px;
     opacity: 0;
