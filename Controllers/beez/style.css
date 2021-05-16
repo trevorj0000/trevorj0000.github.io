@@ -15,7 +15,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(beezstick.png);
+    background: url(beezsticks.png);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
@@ -116,7 +116,7 @@ body {
     height: 108px;
     left: 94px;
 } .xbox .trigger {
-    background: url(beeztriger.png);
+    background: url(beeztrigers.png);
     width: 111px;
     height: 108px;
     opacity: 0;
