@@ -51,6 +51,8 @@ body {
     background-position: -177px 0;
     left: 61px;
     top: 0px;
+} .xbox .quadrant { 
+    display: none;
 } .xbox .back, .xbox .start {
     background: url(beezstart.png);
     width: 27px;
