@@ -72,7 +72,7 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
-    background: url(https://i.imgur.com/p4vyf2h.png);
+    background: url(beezface.png);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {
