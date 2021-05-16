@@ -17,7 +17,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(pheniixbuttons.png);
+    background: url(phenixbutton.png);
     width: 48px;
     height: 48px;
 }
@@ -62,7 +62,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(pheenixsticks.png);
+    background: url(phenixsticks.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -80,6 +80,14 @@
 .xbox .stick.right {
     top: 113px;
     left: 288px;
+}
+
+.xbox.half {
+    margin-top: -315px;
+}
+
+.xbox {
+    background: no-repeat center;
 }
 
 /*END Xbox One Controller Styling*/
