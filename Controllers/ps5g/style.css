@@ -62,6 +62,7 @@ body {
     background-position: 27px 0;
     float: right;
 } .xbox .dpad {
+background: url(https://i.imgur.com/MDVVzpd.png);
 	width: 144px;
     height: 144px;
     left: 71px;
