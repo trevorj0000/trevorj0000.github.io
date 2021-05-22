@@ -59,7 +59,7 @@
 
 .ds4 .stick {
     position: absolute;
-    background: url(foxsticks.png);
+    background: url(foxstick.png);
     height: 94px;
     width: 94px;
 }
@@ -81,6 +81,7 @@
     top: calc(100% - 105px);
     left: calc(100% - 105px);
 }
+
 
 .ds4 .dpad {
     position: absolute;
