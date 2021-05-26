@@ -29,7 +29,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(https://i.imgur.com/3nDBSQm.png);
+    background: url();
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -62,7 +62,7 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
-    background: url(https://i.imgur.com/ukMOz16.png);
+    background: url(https://i.imgur.com/zwqzs8i.png);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {
