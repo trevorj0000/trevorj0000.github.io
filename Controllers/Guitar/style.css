@@ -67,6 +67,7 @@
     float: right;
     transform: rotateY(180deg);
 
+}    
 .ds4 .abxy {
     position: absolute;
     width: 170px;
