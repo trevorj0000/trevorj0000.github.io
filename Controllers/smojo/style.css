@@ -8,7 +8,7 @@
 }
 
 .xbox.disconnected {
-    background: url(sdisconnect.png);
+    background: url(sdisconnected.png);
 }
 
 .xbox.disconnected div {
