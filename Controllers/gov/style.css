@@ -70,7 +70,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(govsticks.png);
+    background: url(govstick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
