@@ -1,5 +1,5 @@
 /*BEGIN PS4 Controller Styling*/
-.controller .ds4 {
+.controller.ds4 {
     background: url(gearbase.png);
     height: 598px;
     width: 806px;
