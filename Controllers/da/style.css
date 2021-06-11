@@ -62,7 +62,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(dasticks.png);
+    background: url(dastick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
