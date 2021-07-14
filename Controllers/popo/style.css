@@ -1,18 +1,63 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(popoanimatedbase.gif);
+    background: url(popobase.gif);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
         margin-top: -285px;*/
 }
 
-.xbox.disconnected {
-    background: url(xbox-assets/disconnected.svgz);
+.xbox .triggers {
+    width: 446px;
+    height: 121px;
+    position: absolute;
+    left: 152px;
 }
 
-.xbox.disconnected div {
-    display: none;
+.xbox .trigger {
+    width: 88px;
+    height: 121px;
+    background: url(poptrigger.png);
+    opacity: 0;
+}
+
+.xbox .trigger.left {
+    float: left;
+    background-position: 0 0;
+}
+
+.xbox .trigger.right {
+    float: right;
+    transform: rotateY(180deg);
+}
+
+.xbox .bumper {
+    width: 170px;
+    height: 61px;
+    background: url(popobumper.png);
+    opacity: 0;
+}
+
+.xbox .bumpers {
+    position: absolute;
+    width: 536px;
+    height: 61px;
+    left: 107px;
+    top: 129px;
+}
+
+.xbox .bumper.pressed {
+    opacity: 1;
+}
+
+.xbox .bumper.left {
+    float: left;
+}
+
+.xbox .bumper.right {
+    float: right;
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
 }
 
 .xbox .abxy {
@@ -88,6 +133,63 @@
 .xbox .stick.right {
     top: 113px;
     left: 288px;
+}
+
+.xbox .dpad {
+    position: absolute;
+    width: 110px;
+    height: 111px;
+    top: 345px;
+    left: 223px;
+}
+
+.xbox .face {
+    background: url(popodpad.png);
+    position: absolute;
+    opacity: 0;
+}
+
+.xbox .face.pressed {
+    opacity: 1;
+}
+
+.xbox .face.up {
+    background-position: 34px 0;
+    left: 38px;
+    top: 0px;
+    width: 34px;
+    height: 56px;
+}
+
+.xbox .face.down {
+    left: 38px;
+    bottom: 0;
+    width: 34px;
+    height: 56px;
+}
+
+.xbox .face.left {
+    background-position: 0 -93px;
+    width: 55px;
+    height: 35px;
+    top: 38px;
+    left: 0;
+}
+
+.xbox .face.right {
+    background-position: 0 -57px;
+    width: 55px;
+    height: 35px;
+    top: 38px;
+    right: 0;
+}
+
+.xbox.half {
+    margin-top: -315px;
+}
+
+.xbox {
+    background: no-repeat center;
 }
 
 /*END Xbox One Controller Styling*/
