@@ -27,7 +27,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(lvfaces.png);
+    background: url(lvface.png);
 }
 
 .ds4 .button.pressed {
